@@ -3,6 +3,26 @@
     {
       "name": "Rockeseat",
       "url": "http://rocketseat.com.br"
+    },
+    {
+      "name": "Google",
+      "url": "http://www.google.com"
+    },
+    {
+      "name": "k6-loadimpact",
+      "url": "https://k6.io/docs"
+    },
+    {
+      "name": "Danki Code",
+      "url": "http://dankicode.com"
+    },
+    {
+      "name": "Teste",
+      "url": "http://www.teste.com"
+    },
+    {
+      "name": "Lower",
+      "url": "http://lower.com.br"
     }
   ]
 }
